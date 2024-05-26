@@ -2,7 +2,7 @@ import Controller from "./_components";
 
 export default function Home() {
   return (
-    <main className="">
+    <main>
       <Controller />
     </main>
   );
